@@ -1,0 +1,242 @@
+.lp-qa-14 {
+    padding: 32px 0;
+}
+
+.lp-qa-14-wrapper {
+    margin-top: 24px;
+}
+
+.lp-qa-14-item {
+    margin-bottom: 8px;
+}
+
+.lp-qa-14-item__title-wrapper {
+    padding: 16px 8px;
+    background-color: rgba(31, 80, 161, 0.05);
+    transition: .7s;
+    cursor: pointer;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.active .lp-qa-14-item__title-wrapper .lp-qa-14-item__icon {
+    transform: rotate(180deg);
+}
+
+.lp-qa-14-item__number {
+    margin-right: 8px;
+    min-width: 32px;
+    text-align: center;
+}
+
+.lp-qa-14-item__title {
+    margin-right: auto;
+    width: 100%;
+}
+
+.lp-qa-14-item__icon {
+    transition: .7s;
+    margin-left: 8px;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    flex: 0 0 16px;
+}
+
+.lp-qa-14-item__icon-line:first-child,
+.lp-qa-14-item__icon-line:last-child {
+    content: '';
+    display: block;
+    position: absolute;
+    width: 8px;
+    height: 2px;
+    background: var(--primary-color-base);
+    transform: rotate(40deg);
+    top: 9px;
+    left: 1px;
+    border-radius: 40px !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: 0 !important;
+    box-shadow: none !important;
+}
+
+.lp-qa-14-item__icon-line:last-child {
+    transform: rotate(-40deg);
+    left: auto;
+    right: 1px;
+}
+
+.lp-qa-14-item__text {
+    display: none;
+    padding: 16px;	
+    overflow: hidden;
+}
+
+.isCMS .lp-qa-14-item__text {
+	display: block;
+}
+
+.lp-qa-14-item:last-child {
+    margin-bottom: 0;
+}
+
+.lp-qa-14-contact {
+    justify-content: center;
+    text-align: center;
+    margin-top: 24px;
+}
+
+.lp-qa-14-contact__photo {
+    line-height: 0;
+    margin: 0 auto;
+    border-radius: 500px;
+    position: relative;
+    width: 188px;
+    height: 188px;
+}
+
+.lp-qa-14-contact__photo img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.lp-qa-14-contact__position {
+    margin-top: 8px;
+}
+
+.lp-qa-14-contact__name {
+    margin-top: 4px;
+}
+
+.lp-qa-14-contact__button {
+    margin-top: 16px;
+    width: 100%;
+}
+
+@media all and (min-width: 600px) {
+    .lp-qa-14 {
+        padding: 56px 0;
+    }
+
+    .lp-qa-14-wrapper {
+        margin-top: 40px;
+    }
+
+    .lp-qa-14-item__title-wrapper {
+        padding: 24px;
+    }
+
+    .lp-qa-14-item__number {
+        min-width: 46px;
+        margin-right: 24px;
+    }
+
+    .lp-qa-14-item__icon {
+        margin-left: 24px;
+    }
+
+    .lp-qa-14-item__text {
+        padding: 24px;
+    }
+
+    .lp-qa-14-contact {
+        margin-top: 40px;
+    }
+
+    .lp-qa-14-contact__position {
+        margin-top: 16px;
+    }
+
+    .lp-qa-14-contact__button {
+        width: auto;
+        margin-top: 24px;
+    }
+}
+
+@media all and (min-width: 960px) {
+    .lp-qa-14__title {
+        max-width: 592px;
+    }
+
+    .lp-qa-14-wrapper {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .lp-qa-14-items {
+        width: 592px;
+        align-self: center;
+    }
+
+    .lp-qa-14-contact {
+        margin-top: 0;
+        width: 272px;
+    }
+
+    .lp-qa-14._reverse .lp-qa-14__title {
+        margin-left: auto;
+    }
+
+    .lp-qa-14._reverse .lp-qa-14-items {
+        order: 2;
+    }
+
+    .lp-qa-14._reverse .lp-qa-14-contact {
+        order: 1;
+    }
+}
+
+@media all and (min-width: 1200px) {
+    .lp-qa-14 {
+        padding: 80px 0;
+    }
+
+    .lp-qa-14__title {
+        max-width: 760px;
+    }
+
+    .lp-qa-14-wrapper {
+        margin-top: 56px;
+    }
+
+    .lp-qa-14-items {
+        width: 760px;
+    }
+
+    .lp-qa-14-item__title-wrapper {
+        padding: 32px;
+    }
+
+    .lp-qa-14-item__number {
+        margin-right: 32px;
+    }
+
+    .lp-qa-14-item__icon {
+        margin-left: 32px;
+    }
+
+    .lp-qa-14-item__text {
+        padding: 32px;
+    }
+
+    .lp-qa-14-contact {
+        width: 368px;
+    }
+}
+
+@media all and (min-width: 1380px) {
+    .lp-qa-14__title {
+        max-width: 848px;
+    }
+
+    .lp-qa-14-items {
+        width: 848px;
+    }
+
+    .lp-qa-14-contact {
+        width: 408px;
+    }
+}

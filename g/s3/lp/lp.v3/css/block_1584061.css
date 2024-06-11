@@ -1,0 +1,225 @@
+.lp-form-block-16__wrap {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    word-break: break-word;
+}
+
+
+
+.lp-form-block-16__icon-inner {
+	width: 40px;
+	height: 40px;
+	max-width: 96px;
+}
+
+.lp-form-block-16__icon-inner svg {
+  width: 100%;
+  height: 100%;
+  fill: var(--text-color-base);
+}
+
+/*.lp-form-block-16 {
+	background-color: rgba(68, 68, 68, 0.05);
+}
+
+.lp-form-block-16 .lp-block-overlay {
+    background: transparent;
+}*/
+
+.lp-form-block-16 .lp-form-tpl__button-wrapper {text-align: center;}
+
+@media (min-width: 600px) {
+    .lp-form-block-16__wrap {
+        padding-top: 48px;
+        padding-bottom: 48px;
+    }
+}
+
+@media (min-width: 960px) {
+    .lp-form-block-16__wrap {
+        display: flex;
+    }
+
+    .lp-form-block-16 .lp-form-tpl__button {width: 100%;}
+}
+
+@media (min-width: 769px) {
+    .lp-form-block-16__wrap.reverse .lp-form-block-16__form-wrap {
+        order: 1;
+        margin-right: 32px;
+    }
+
+    .lp-form-block-16__wrap.reverse .lp-form-block-16__text-wrap {
+        order: 2;
+        padding-right: 0;
+    }
+}
+
+.lp-form-block-16 .lp-form-block-16__text-wrap {
+    padding-right: 0;
+    align-self: center;
+    width: 100%;
+}
+
+.lp-form-block-16__text {flex: 1 0 1%;}
+
+@media (min-width: 960px) {
+    .lp-form-block-16 .lp-form-block-16__text-wrap {
+        padding-right: 40px;
+        max-width: 662px;
+    }
+}
+
+@media (min-width: 1380px) {
+    .lp-form-block-16 .lp-form-block-16__text-wrap {
+        max-width: 848px;
+    }
+}
+
+.lp-form-block-16 ._title {
+    padding-bottom: 16px;
+}
+
+.lp-form-block-16 ._text {
+    position: relative;
+    padding-bottom: 18px;
+}
+
+.lp-form-block-16 ._text ._line {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 80px;
+    height: 4px;
+    display: inline-block;
+}
+
+@media (min-width: 600px) {
+    .lp-form-block-16 ._text {
+        padding-bottom: 26px;
+    }
+}
+
+.lp-form-block-16 .lp-form-block-16__item-wrap {
+    padding-top: 16px;
+}
+
+@media (min-width: 1200px) {
+    .lp-form-block-16 .lp-form-block-16__item-wrap {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+.lp-form-block-16 .lp-form-block-16__item {
+    display: flex;
+    align-items: center;
+    padding-top: 16px;
+    padding-right: 16px;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+}
+
+@media (min-width: 1200px) {
+    .lp-form-block-16 .lp-form-block-16__item {
+        width: 50%;
+    }
+
+    .lp-form-block-16 .lp-form-block-16__item:nth-child(n+3) {
+        padding-top: 32px;
+    }
+}
+
+.lp-form-block-16 .lp-form-block-16__text {
+    width: auto;
+}
+
+@media (min-width: 1200px) {
+    .lp-form-block-16 .lp-form-block-16__text {
+        width: 182px;
+    }
+}
+
+@media (min-width: 1380px) {
+    .lp-form-block-16 .lp-form-block-16__text {
+        width: 320px;
+    }
+}
+
+.lp-form-block-16 .lp-form-block-16__icon {
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+    margin-right: 16px;
+}
+
+@media (min-width: 960px) {
+    .lp-form-block-16 .lp-form-block-16__icon {
+        width: auto;
+        max-width: 100%;
+        height: auto;
+        padding: 16px;
+    }
+}
+
+.lp-form-block-16 ._round {
+    height: 0;
+    margin: 0;
+    padding: 50% 5%;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.lp-form-block-16 ._round-in {
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    line-height: 1;
+}
+
+.lp-form-block-16__form-wrap {
+    background-color: #fff;
+    box-sizing: border-box;
+    padding: 16px;
+    margin-top: 32px;
+    align-self: flex-start;
+    width: 100%;
+}
+
+.lp-form-block-16 .lp-form-block-16__form-wrap-title {
+    text-align: center;
+    margin-bottom: 42px;
+}
+
+@media (min-width: 600px) {
+    .lp-form-block-16 .lp-form-block-16__form-wrap-title {
+        margin-bottom: 32px;
+    }
+}
+
+@media (min-width: 600px) {
+     .lp-form-block-16__form-wrap {
+        padding: 40px;
+    }
+}
+
+@media (min-width: 960px) {
+     .lp-form-block-16__form-wrap {
+        padding: 24px;
+        max-width: 408px;
+        margin-top: 0;
+    }
+}
+
+.lp-form-block-16 .lp-form-tpl__button {
+    width: 100%;
+}

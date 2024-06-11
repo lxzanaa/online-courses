@@ -1,0 +1,688 @@
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzI.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzI.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxMIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\s\roboto\v30\KFOkCnqEu92Fr1MmgVxMIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc4.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc4.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxK.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxKOzY.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\s\roboto\v30\KFOmCnqEu92Fr1Mu5mxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\index.htm
+Content Type: text/html
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/d/5836952/d/111_8.png
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\d\5836952\d\111_8.png
+Content Type: image/png
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/d/5836952/d/455_4.png
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\d\5836952\d\455_4.png
+Content Type: image/png
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/d/5836952/d/65_1.png
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\d\5836952\d\65_1.png
+Content Type: image/png
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/f/prays.docx
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\f\prays.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/css/styles_articles_tpl.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\css\styles_articles_tpl.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-b-i.eot
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-b-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-b-i.eot?
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-b-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-b-i.svg
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-b-i.svg
+Content Type: image/svg+xml
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-b-i.ttf
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-b-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-b-i.woff
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-b-i.woff
+Content Type: application/font-woff
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-b-i.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-b-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-b.eot
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-b.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-b.eot?
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-b-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-b.svg
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-b.svg
+Content Type: image/svg+xml
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-b.ttf
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-b.ttf
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-b.woff
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-b.woff
+Content Type: application/font-woff
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-b.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-b.woff2
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-bl-i.eot
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-bl-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-bl-i.eot?
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-bl-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-bl-i.svg
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-bl-i.svg
+Content Type: image/svg+xml
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-bl-i.ttf
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-bl-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-bl-i.woff
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-bl-i.woff
+Content Type: application/font-woff
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-bl-i.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-bl-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-bl.eot
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-bl.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-bl.eot?
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-bl-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-bl.svg
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-bl.svg
+Content Type: image/svg+xml
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-bl.ttf
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-bl.ttf
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-bl.woff
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-bl.woff
+Content Type: application/font-woff
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-bl.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-bl.woff2
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-i.eot
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-i.eot?
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-i.svg
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-i.svg
+Content Type: image/svg+xml
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-i.ttf
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-i.woff
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-i.woff
+Content Type: application/font-woff
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-i.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-l-i.eot
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-l-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-l-i.eot?
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-l-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-l-i.svg
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-l-i.svg
+Content Type: image/svg+xml
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-l-i.ttf
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-l-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-l-i.woff
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-l-i.woff
+Content Type: application/font-woff
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-l-i.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-l-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-l.eot
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-l.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-l.eot?
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-l-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-l.svg
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-l.svg
+Content Type: image/svg+xml
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-l.ttf
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-l.ttf
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-l.woff
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-l.woff
+Content Type: application/font-woff
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-l.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-l.woff2
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-m-i.eot
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-m-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-m-i.eot?
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-m-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-m-i.svg
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-m-i.svg
+Content Type: image/svg+xml
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-m-i.ttf
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-m-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-m-i.woff
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-m-i.woff
+Content Type: application/font-woff
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-m-i.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-m-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-m.eot
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-m.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-m.eot?
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-m-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-m.svg
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-m.svg
+Content Type: image/svg+xml
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-m.ttf
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-m.ttf
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-m.woff
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-m.woff
+Content Type: application/font-woff
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-m.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-m.woff2
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-r.eot
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-r.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-r.eot?
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-r-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-r.svg
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-r.svg
+Content Type: image/svg+xml
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-r.ttf
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-r.ttf
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-r.woff
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-r.woff
+Content Type: application/font-woff
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-r.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-r.woff2
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-t-i.eot
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-t-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-t-i.eot?
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-t-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-t-i.svg
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-t-i.svg
+Content Type: image/svg+xml
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-t-i.ttf
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-t-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-t-i.woff
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-t-i.woff
+Content Type: application/font-woff
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-t-i.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-t-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-t.eot
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-t.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-t.eot?
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-t-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-t.svg
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-t.svg
+Content Type: image/svg+xml
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-t.ttf
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-t.ttf
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-t.woff
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-t.woff
+Content Type: application/font-woff
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/fonts/roboto/roboto-t.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\fonts\roboto\roboto-t.woff2
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/libs/jquery-popover/0.0.3/jquery.popover.min.js
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\libs\jquery-popover\0.0.3\jquery.popover.min.js
+Content Type: application/javascript
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/libs/jquery/1.10.2/jquery.min.js?dfs
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\libs\jquery\1.10.2\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/libs/lightgallery-proxy-to-hs/lightgallery.proxy.to.hs.js
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\libs\lightgallery-proxy-to-hs\lightgallery.proxy.to.hs.js
+Content Type: application/javascript
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/libs/lightgallery-proxy-to-hs/lightgallery.proxy.to.hs.min.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\libs\lightgallery-proxy-to-hs\lightgallery.proxy.to.hs.min.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/libs/lightgallery-proxy-to-hs/lightgallery.proxy.to.hs.stub.min.js
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\libs\lightgallery-proxy-to-hs\lightgallery.proxy.to.hs.stub.min.js
+Content Type: application/javascript
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/libs/lodash/2.4.1/lodash.min.js
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\libs\lodash\2.4.1\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/libs/owl-carousel/2.3.4/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\libs\owl-carousel\2.3.4\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/libs/owl-carousel/2.3.4/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\libs\owl-carousel\2.3.4\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/libs/owl-carousel/2.3.4/owl.video.play.png
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\libs\owl-carousel\2.3.4\owl.video.play.png
+Content Type: image/png
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/img/lp-map-placeholder-v3.svg
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\img\lp-map-placeholder-v3.svg
+Content Type: image/svg+xml
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/js/lp.core.js
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\js\lp.core.js
+Content Type: application/javascript
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/css/block_1490661.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\css\block_1490661.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/css/block_1513261.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\css\block_1513261.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/css/block_1513861.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\css\block_1513861.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/css/block_1534861.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\css\block_1534861.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/css/block_1551061.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\css\block_1551061.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/css/block_1562261.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\css\block_1562261.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/css/block_1584061.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\css\block_1584061.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/css/block_1597061.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\css\block_1597061.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/css/block_1613261.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\css\block_1613261.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/css/block_1643861.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\css\block_1643861.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/css/block_1711661.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\css\block_1711661.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/css/block_1714061.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\css\block_1714061.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/css/block_50451.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\css\block_50451.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/css/block_657308.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\css\block_657308.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/css/block_69051.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\css\block_69051.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/css/form.styles.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\css\form.styles.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/css/new_styles.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\css\new_styles.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/css/styles.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\css\styles.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/fonts/fonts.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\fonts\fonts.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/fonts/SourceSansPro-Bold.ttf
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\fonts\SourceSansPro-Bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/fonts/SourceSansPro-Bold.woff
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\fonts\SourceSansPro-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/fonts/SourceSansPro-Bold.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\fonts\SourceSansPro-Bold.woff2
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/fonts/SourceSansPro-BoldItalic.ttf
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\fonts\SourceSansPro-BoldItalic.ttf
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/fonts/SourceSansPro-BoldItalic.woff
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\fonts\SourceSansPro-BoldItalic.woff
+Content Type: application/font-woff
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/fonts/SourceSansPro-BoldItalic.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\fonts\SourceSansPro-BoldItalic.woff2
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/fonts/SourceSansPro-Regular.ttf
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\fonts\SourceSansPro-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/fonts/SourceSansPro-Regular.woff
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\fonts\SourceSansPro-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/fonts/SourceSansPro-Regular.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\fonts\SourceSansPro-Regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/fonts/SourceSansPro-RegularItalic.ttf
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\fonts\SourceSansPro-RegularItalic.ttf
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/fonts/SourceSansPro-RegularItalic.woff
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\fonts\SourceSansPro-RegularItalic.woff
+Content Type: application/font-woff
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/fonts/SourceSansPro-RegularItalic.woff2
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\fonts\SourceSansPro-RegularItalic.woff2
+Content Type: application/octet-stream
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/img/lp-promo-36.jpg
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\img\lp-promo-36.jpg
+Content Type: image/jpeg
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/s3/lp/lp.v3/js/main.js
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\s3\lp\lp.v3\js\main.js
+Content Type: application/javascript
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/solutions_panel_v2/js/spanel.js
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\solutions_panel_v2\js\spanel.js
+Content Type: application/javascript
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/spacer.gif
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\spacer.gif
+Content Type: image/gif
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/templates/solutions/all/hotlink/1.0.0/hotlink.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\templates\solutions\all\hotlink\1.0.0\hotlink.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/templates/solutions/all/hotlink/1.0.0/hotlink.js
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\templates\solutions\all\hotlink\1.0.0\hotlink.js
+Content Type: application/javascript
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/templates/solutions/all/panel/3.0.0/link.js
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\templates\solutions\all\panel\3.0.0\link.js
+Content Type: application/javascript
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/g/templates/start/0.0.3/js/s3.themeswitcher2.list.js
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\g\templates\start\0.0.3\js\s3.themeswitcher2.list.js
+Content Type: application/javascript
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/my/s3/js/site.min.js?1718072998
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\my\s3\js\site.min.js
+Content Type: application/javascript
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/my/s3/js/site/defender.min.js?1718072998
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\my\s3\js\site\defender.min.js
+Content Type: application/javascript
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/shared/s3/css/calendar.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\shared\s3\css\calendar.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/shared/s3/js/common.min.js
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\shared\s3\js\common.min.js
+Content Type: application/javascript
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/shared/s3/js/cookie.js
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\shared\s3\js\cookie.js
+Content Type: application/javascript
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/shared/s3/js/lang/ru.js
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\shared\s3\js\lang\ru.js
+Content Type: application/javascript
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/t/css/__landing_page_88094908.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\t\css\__landing_page_88094908.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/t/css/__landing_page_global_88094908.css
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\t\css\__landing_page_global_88094908.css
+Content Type: text/css
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/thumb/2/35QxutpQHr__8vpYnBpzmw/r/d/marc1.png
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\thumb\2\35QxutpQHr__8vpYnBpzmw\r\d\marc1.png
+Content Type: image/png
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/thumb/2/3ixQDcdLkKVxDMd0Foybwg/r/d/vector3.png
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\thumb\2\3ixQDcdLkKVxDMd0Foybwg\r\d\vector3.png
+Content Type: image/png
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/thumb/2/3vnP2BpVjQhEGuSIsWmhIQ/298c/d/stafa3.png
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\thumb\2\3vnP2BpVjQhEGuSIsWmhIQ\298c\d\stafa3.png
+Content Type: image/png
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/thumb/2/BudirhyDUDGhabHHAZ7kOw/32r32/d/fgs16_telegram_rounded.svg
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\thumb\2\BudirhyDUDGhabHHAZ7kOw\32r32\d\fgs16_telegram_rounded.svg
+Content Type: image/svg+xml
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/thumb/2/cRNDvgpucXxDKebHc4LE_A/250r/d/fgs16_logo_neutral_5.svg
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\thumb\2\cRNDvgpucXxDKebHc4LE_A\250r\d\fgs16_logo_neutral_5.svg
+Content Type: image/svg+xml
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/thumb/2/D-JzkTYnRt2ilZwNOzIJGA/250r/d/fgs16_logo_neutral_4.svg
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\thumb\2\D-JzkTYnRt2ilZwNOzIJGA\250r\d\fgs16_logo_neutral_4.svg
+Content Type: image/svg+xml
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/thumb/2/DkNL4zJRbUAA59Hy8qjCIQ/188r/d/pic8.png
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\thumb\2\DkNL4zJRbUAA59Hy8qjCIQ\188r\d\pic8.png
+Content Type: image/png
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/thumb/2/F3e-kUNHD0b2esljGoRxfw/250r/d/fgs16_logo_neutral_3.svg
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\thumb\2\F3e-kUNHD0b2esljGoRxfw\250r\d\fgs16_logo_neutral_3.svg
+Content Type: image/svg+xml
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/thumb/2/G9Qa7-rcv1l2zwN0hRlCCA/250r/d/fgs16_logo_neutral_2.svg
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\thumb\2\G9Qa7-rcv1l2zwN0hRlCCA\250r\d\fgs16_logo_neutral_2.svg
+Content Type: image/svg+xml
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/thumb/2/hSvxU8GSILS-5vGpFAG4CA/r/d/vector4.png
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\thumb\2\hSvxU8GSILS-5vGpFAG4CA\r\d\vector4.png
+Content Type: image/png
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/thumb/2/IAS4682RrvJpicGL8ZCevw/c900/d/pic22.png
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\thumb\2\IAS4682RrvJpicGL8ZCevw\c900\d\pic22.png
+Content Type: image/png
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/thumb/2/JPUNpI0L_5QDP3namulRrA/250r/d/fgs16_logo_neutral_1.svg
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\thumb\2\JPUNpI0L_5QDP3namulRrA\250r\d\fgs16_logo_neutral_1.svg
+Content Type: image/svg+xml
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/thumb/2/KGVuVxvtiF_13tK6btnDTQ/r/d/fgs16_18.png
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\thumb\2\KGVuVxvtiF_13tK6btnDTQ\r\d\fgs16_18.png
+Content Type: image/png
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/thumb/2/LXj-xMrXCggZgBQ0cB9nKg/298c/d/staff4.png
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\thumb\2\LXj-xMrXCggZgBQ0cB9nKg\298c\d\staff4.png
+Content Type: image/png
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/thumb/2/sNjVOsK0MU7Q0ZpOF1rDQw/298c/d/staff5.png
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\thumb\2\sNjVOsK0MU7Q0ZpOF1rDQw\298c\d\staff5.png
+Content Type: image/png
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/thumb/2/t-NDNQbjd38O_RpgwC92nQ/r/d/pic555.png
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\thumb\2\t-NDNQbjd38O_RpgwC92nQ\r\d\pic555.png
+Content Type: image/png
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/thumb/2/uLI6_bOr6iQJVCRDvMRMPQ/250r/d/fgs16_logo_neutral_6.svg
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\thumb\2\uLI6_bOr6iQJVCRDvMRMPQ\250r\d\fgs16_logo_neutral_6.svg
+Content Type: image/svg+xml
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/thumb/2/VL2SoUrEtvccxfhpIJtilQ/r/d/vector1.png
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\thumb\2\VL2SoUrEtvccxfhpIJtilQ\r\d\vector1.png
+Content Type: image/png
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/thumb/2/VTWOGd5uQGILtIEFvdG95A/r/d/marc2.png
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\thumb\2\VTWOGd5uQGILtIEFvdG95A\r\d\marc2.png
+Content Type: image/png
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/thumb/2/w-hAvQcm3o0MvXlG9fyXjQ/32r32/d/fgs16_whatsapp_rounded.svg
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\thumb\2\w-hAvQcm3o0MvXlG9fyXjQ\32r32\d\fgs16_whatsapp_rounded.svg
+Content Type: image/svg+xml
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/thumb/2/wFEXYahPc4HgOIjW0xRnzA/250r/d/fgs16_logo_neutral_7.svg
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\thumb\2\wFEXYahPc4HgOIjW0xRnzA\250r\d\fgs16_logo_neutral_7.svg
+Content Type: image/svg+xml
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/thumb/2/x9E_qxFQ-Ny8WSbsm4a4kQ/298c/d/staff1.png
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\thumb\2\x9E_qxFQ-Ny8WSbsm4a4kQ\298c\d\staff1.png
+Content Type: image/png
+
+Uri: https://lp3-gr-online-courses-m-manager.oml.ru/thumb/2/Y2LODbVKo6H4oZN-s9IQXA/r188/d/pic5.png
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\thumb\2\Y2LODbVKo6H4oZN-s9IQXA\r188\d\pic5.png
+Content Type: image/png
+
+Uri: https://www.youtube.com/iframe_api
+File Name: C:\Downloaded Web Sites\lp3-gr-online-courses-m-manager.oml.ru\iframe_api
+Content Type: text/javascript
+

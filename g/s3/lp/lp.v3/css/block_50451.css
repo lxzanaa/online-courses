@@ -1,0 +1,320 @@
+.lp-promo-36 * {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.lp-promo-36-wrap {
+    position: relative;
+}
+
+@media all and (min-width: 960px) {
+    .lp-promo-36._reverse .lp-promo-36-wrap {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: reverse;
+        -ms-flex-direction: row-reverse;
+        flex-direction: row-reverse;
+    }
+}
+
+@media all and (min-width: 960px) {
+    .lp-promo-36._reverse .lp-promo-36-figure {
+        right: 0;
+        left: auto;
+    }
+}
+
+.lp-promo-36 .lp-block-bg {
+    background-image: url(../img/lp-promo-36.jpg);
+ }
+
+.lp-promo-36-figure {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.5);
+    border: 0 !important;
+}
+
+@media all and (min-width: 960px) {
+    .lp-promo-36-figure {
+        width: calc(100vw/3*2);
+    }
+}
+
+.lp-promo-36 > .lp-block-overlay {
+    background: rgba(255, 255, 255, 0.5);
+}
+
+.lp-promo-36 {
+    padding: 32px 0;
+    position: relative;
+}
+
+@media all and (min-width: 600px) {
+    .lp-promo-36 {
+        padding: 56px 0;
+    }
+}
+
+@media all and (min-width: 960px) {
+    .lp-promo-36-wrap {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+        position: relative;
+        align-items: center;
+    }
+}
+
+@media all and (min-width: 1200px) {
+    .lp-promo-36 {
+        padding: 80px 0;
+    }
+}
+
+@media all and (min-width: 960px) {
+    .lp-promo-36-content {
+        width: 432px;
+    }
+}
+
+@media all and (min-width: 1200px) {
+    .lp-promo-36-content {
+        width: 563px;
+    }
+}
+
+@media all and (min-width: 1380px) {
+    .lp-promo-36-content {
+        width: 628px;
+    }
+}
+
+@media all and (min-width: 960px) {
+    .lp-promo-36-image {
+        width: 432px;
+    }
+}
+
+@media all and (min-width: 1200px) {
+    .lp-promo-36-image {
+        width: 466px;
+    }
+}
+
+@media all and (min-width: 1380px) {
+    .lp-promo-36-image {
+        width: 518px;
+    }
+}
+
+.lp-promo-36-content__text {
+    margin: 8px 0 0;
+}
+
+@media all and (min-width: 600px) {
+    .lp-promo-36-content__text {
+        margin: 16px 0 0;
+    }
+}
+
+.lp-promo-36-content__btn {
+    margin: 16px 0 0;
+    width: 100%;
+}
+
+@media all and (min-width: 600px) {
+	.lp-promo-36-content__buttons {
+		margin: 0 -8px 0;
+	}
+	
+    .lp-promo-36-content__btn {
+        width: auto;
+        margin: 24px 8px 0;
+    }
+}
+
+@media all and (min-width: 1200px) {
+    .lp-promo-36-content__btn {
+        margin: 32px 8px 0;
+    }
+}
+
+.lp-promo-36-content-features {
+    margin: 24px 0 0;
+}
+
+@media all and (min-width: 600px) {
+    .lp-promo-36-content-features {
+        margin: 32px -12px -24px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    }
+}
+
+@media all and (min-width: 1200px) {
+    .lp-promo-36-content-features {
+        margin: 48px -12px -24px;
+    }
+}
+
+@media all and (min-width: 1380px) {
+    .lp-promo-36-content-features {
+        margin: 48px -16px -32px;
+    }
+}
+
+.lp-promo-36-content-features__item {
+    margin: 16px 0 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+@media all and (min-width: 600px) {
+    .lp-promo-36-content-features__item {
+        width: 276px;
+        margin: 0 12px 24px;
+    }
+}
+
+@media all and (min-width: 960px) {
+    .lp-promo-36-content-features__item {
+        width: 100%;
+    }
+}
+
+@media all and (min-width: 1200px) {
+    .lp-promo-36-content-features__item {
+        width: 269px;
+    }
+}
+
+@media all and (min-width: 1380px) {
+    .lp-promo-36-content-features__item {
+        width: 298px;
+        margin: 0 16px 32px;
+    }
+}
+
+.lp-promo-36-content-features__item-icon {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    overflow: hidden;
+    padding: 16px;
+    border-radius: 50%;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    position: relative;
+    -ms-flex-item-align: start;
+    align-self: flex-start;
+    margin-right: 16px;
+    box-sizing: content-box;
+    background: var(--primary-color-a-02);
+}
+
+.lp-promo-36-content-features__item-icon-in {
+    width: 24px;
+    height: 24px;
+    box-sizing: content-box;
+    max-width: 200px;
+}
+
+.lp-promo-36-content-features__item-icon-in svg {
+    width: 100%;
+    height: 100%;
+    fill: var(--primary-color-base);
+}
+
+@media all and (min-width: 1200px) {
+    .lp-promo-36-content-features__item-icon {
+        margin-right: 32px;
+        padding: 23px;
+    }
+
+    .lp-promo-36-content-features__item-icon-in {
+        width: 32px;
+        height: 32px;
+    }
+}
+
+.lp-promo-36-content-features__item-icon .lp-block-overlay {
+    background: var(--primary-color-base)20;
+}
+
+.lp-promo-36-image {
+    position: relative;
+    padding-bottom: 100%;
+    margin: 24px 0 0;
+    background-color: #fff;
+    overflow: hidden;
+}
+
+.lp-promo-36 .lp-wrapp {
+    position: static;
+}
+
+@media all and (min-width: 600px) {
+    .lp-promo-36-image {
+        width: 432px;
+        height: 432px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0;
+        margin-top: 48px;
+    }
+}
+
+@media all and (min-width: 960px) {
+    .lp-promo-36-image {
+        margin: 0;
+    }
+}
+
+@media all and (min-width: 1200px) {
+    .lp-promo-36-image {
+        width: 466px;
+        height: 466px;
+    }
+}
+
+@media all and (min-width: 1380px) {
+    .lp-promo-36-image {
+        width: 518px;
+        height: 518px;
+    }
+}
+
+.lp-promo-36-image img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -o-object-fit: contain;
+    object-fit: contain;
+}
+
+@media all and (max-width: 599px) {
+	.lp-promo-36-image img {
+	    -o-object-fit: initial;
+	    object-fit: initial;
+	}
+}

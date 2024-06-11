@@ -1,0 +1,151 @@
+.text-block-6 {
+	padding: 48px 0;
+}
+
+.text-block-6__title {
+	margin: 0 0 32px;
+	text-align: center;
+}
+
+.text-block-6__item {
+	margin: 0 0 32px;
+}
+
+.text-block-6__item-pic {
+	font-size: 0;
+	overflow: hidden;
+	height: calc(100vw * 0.75);
+	width: 100%;
+	margin: 0 0 16px;
+}
+
+.text-block-6__item-pic:empty {display: none;}
+
+.text-block-6__item-title, .text-block-6__item-text {
+	padding: 0;
+	margin: 0;
+}
+
+.text-block-6__item-text {
+	margin-top: 8px;
+}
+
+.text-block-6__item-text p:first-child {margin-top: 0;}
+.text-block-6__item-text p:last-child {margin-bottom: 0;}
+
+.text-block-6__button-wrapper {
+	text-align: center;
+}
+
+.text-block-6__button {
+	/* display: block; */
+	margin: 0 0 16px;
+}
+
+@media all and (max-width: 599px) {
+	.text-block-6__button {
+		display: flex;
+	}
+}
+
+.text-block-6__button .lp-button__text {
+	min-width: 208px;
+}
+
+@media all and (min-width: 600px) {
+	.text-block-6 {
+		padding: 64px 0;
+	}
+
+	.text-block-6__button {
+		margin: 0 8px 16px;
+	}
+	
+	.text-block-6__title {
+		margin: 0 0 48px;
+	}
+	
+	.text-block-6__item {
+		margin: 0 0 48px;
+	}
+	
+	.text-block-6__item-pic {
+		margin: 0 0 24px;
+		height: 432px;
+	}
+	
+	/* .text-block-6__button {
+		display: inline-block;
+	} */
+}
+
+@media all and (min-width: 960px) {
+	.text-block-6__item-pic {
+		margin: 0 0 0 48px;
+		order: 1;
+		flex: none;
+		max-width: 350px;
+		height: 262px;
+		width: 350px;
+	}
+	
+	.text-block-6__item-pic:empty {display: block;}
+	
+	.text-block-6__item-text {
+		margin-top: 16px;
+	}
+	
+	.text-block-6__item {
+		display: flex;
+	}
+	
+	._reverse .text-block-6__item-pic {
+		order: -1;
+		margin: 0 48px 0 0;
+	}
+	
+	.text-block-6__item-text-wrapper {
+		align-self: center;
+		flex: 1 0 1%;
+	}
+	
+	.text-block-6__item-text-wrapper._align_top {
+		align-self: flex-start;
+	}
+	.text-block-6__item-text-wrapper._align_bottom {
+		align-self: flex-end;
+	}
+}
+
+@media all and (min-width: 1200px) {
+	.text-block-6 {
+		padding: 80px 0;
+	}
+	.text-block-6__title {
+		margin: 0 auto 64px;
+		max-width: 912px;
+	}
+	
+	.text-block-6__item-pic {
+		max-width: 466px;
+		width: 466px;
+		height: 349px;
+	}
+}
+
+@media all and (min-width: 1380px) {
+	.text-block-6__item {
+		margin: 0 0 64px;
+	}
+	
+	.text-block-6__item-pic {
+		margin: 0 0 0 80px;
+		max-width: 518px;
+		width: 518px;
+		height: 388px;
+	}
+	
+	._reverse .text-block-6__item-pic {
+		margin: 0 80px 0 0;
+	}
+}
